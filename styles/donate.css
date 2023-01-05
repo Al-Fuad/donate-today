@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+
+}
+p{
+    font-size: 20px;
+}
+main p{
+    color: gray;
+}
+.banner{
+    color: #ffffff;
+    background-image: url(/images/donation10.jpg);
+    background-size: 100% 800px;
+    background-repeat: no-repeat;
+    padding: 150px 200px;
+    text-align: center;
+    margin-bottom: 130px;
+}
+.banner h1{
+    margin: 30px 150px 20px;
+    font-size: 60px;
+}
+.pm{
+    margin: 20px 200px 30px;
+}
+
+.btn-primary{
+    height: 64px;
+    padding: 0 20px;
+    background-color: #FF5959;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 10px;
+    font-size: 18px;/
+}
+section{
+    margin-bottom: 130px;
+}
+section h1{
+    font-size: 38px;
+    /* text-align: center; */
+}
+.tk{
+    display: flex;
+}
+.similar{
+    padding: 0px 200px;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    margin: 0 200px 130px;
+}
+.img img{
+    width: 500px;
+}
+.form{
+    margin-top: 40px;
+    padding: 50px 100px;
+    background-color: rgb(255, 254, 225);
+}
+.form input{
+    height: 45px;
+    border: 0;
+    border-radius: 5px;
+}
+.form input[type="email"]{
+    width: 270px;
+    padding-left: 20px;
+    background-color: lightgray;
+}
+.form input[type="button"]{
+    background-color: #FF5959;
+    color: #ffffff;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+footer{
+    padding: 30px 0;
+    background-color: black;
+    text-align: center;
+}
+footer h2{
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+}
+footer p{
+    font-size: 10px;
+    margin-top: 20px;
+    color: #ffffff;
+}
