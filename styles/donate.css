@@ -12,7 +12,7 @@ main p{
 }
 .banner{
     color: #ffffff;
-    background-image: url(/images/donation10.jpg);
+    background-image: url(images/donation10.jpg);
     background-size: 100% 800px;
     background-repeat: no-repeat;
     padding: 150px 200px;
